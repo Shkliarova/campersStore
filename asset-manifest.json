@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/campersStore/static/css/main.7acaea2f.css",
-    "main.js": "/campersStore/static/js/main.07d3183d.js",
+    "main.css": "/campersStore/static/css/main.cd2e038f.css",
+    "main.js": "/campersStore/static/js/main.482d35ed.js",
+    "static/js/690.2df1e543.chunk.js": "/campersStore/static/js/690.2df1e543.chunk.js",
+    "static/js/7.11231a9d.chunk.js": "/campersStore/static/js/7.11231a9d.chunk.js",
+    "static/js/586.4b2bfea3.chunk.js": "/campersStore/static/js/586.4b2bfea3.chunk.js",
     "index.html": "/campersStore/index.html",
-    "main.7acaea2f.css.map": "/campersStore/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/campersStore/static/js/main.07d3183d.js.map"
+    "main.cd2e038f.css.map": "/campersStore/static/css/main.cd2e038f.css.map",
+    "main.482d35ed.js.map": "/campersStore/static/js/main.482d35ed.js.map",
+    "690.2df1e543.chunk.js.map": "/campersStore/static/js/690.2df1e543.chunk.js.map",
+    "7.11231a9d.chunk.js.map": "/campersStore/static/js/7.11231a9d.chunk.js.map",
+    "586.4b2bfea3.chunk.js.map": "/campersStore/static/js/586.4b2bfea3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.cd2e038f.css",
+    "static/js/main.482d35ed.js"
   ]
 }
